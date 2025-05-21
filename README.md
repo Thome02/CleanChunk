@@ -1,4 +1,4 @@
-#📘 CleanChunk
+# 📘 CleanChunk
 Transforma arquivos .txt, .pdf e .docx em chunks semânticos limpos e organizados. Ideal para pipelines de NLP, embeddings e análise textual.
 
 ### 🚀 Funcionalidades
